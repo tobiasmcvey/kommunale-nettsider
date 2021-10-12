@@ -126,7 +126,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 3014,Indre Østfold,Askim,Viken,bokmål,www.io.kommune.no
 4218,Iveland,Birketveit,Agder,nøytral,www.iveland.kommune.no
 3053,Jevnaker,Jevnaker,Viken,bokmål,www.jevnaker.kommune.no
-5437,Karasjok,Karasjok,Troms og Finnmark,bokmål[14],www.karasjok.kommune.no
+5437,Karasjok,Karasjok,Troms og Finnmark,bokmål,www.karasjok.kommune.no
 5423,Karlsøy,Hansnes,Troms og Finnmark,nøytral,www.karlsoy.kommune.no
 1149,Karmøy,Kopervik,Rogaland,nøytral,www.karmoy.kommune.no
 5430,Kautokeino,Kautokeino,Troms og Finnmark,Bokmål,www.guovdageainnu.suohkan.no
@@ -145,9 +145,9 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 1144,Kvitsøy,Ydstebøhavn,Rogaland,nøytral,kvitsoy.kommune.no
 5411,Kvæfjord,Borkenes,Troms og Finnmark,nøytral,www.kvafjord.kommune.no
 5429,Kvænangen,Burfjord,Troms og Finnmark,nøytral,www.kvanangen.kommune.no
-5426,Kåfjord,Olderdalen,Troms og Finnmark,bokmål[14],www.kafjord.kommune.no
+5426,Kåfjord,Olderdalen,Troms og Finnmark,bokmål,www.kafjord.kommune.no
 3805,Larvik,Larvik,Vestfold og Telemark,nøytral,www.larvik.kommune.no
-5415,Lavangen,Tennevoll,Troms og Finnmark,nøytral[14],www.lavangen.kommune.no
+5415,Lavangen,Tennevoll,Troms og Finnmark,nøytral,www.lavangen.kommune.no
 5438,Lebesby,Kjøllefjord,Troms og Finnmark,bokmål,www.lebesby.kommune.no
 1822,Leirfjord,Leland,Nordland,nøytral,www.leirfjord.kommune.no
 5052,Leka,Leknes,Trøndelag,nøytral,www.leka.kommune.no
@@ -215,7 +215,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 301,Oslo,Oslo,Oslo,nøytral,www.oslo.kommune.no
 4630,Osterøy,Lonevåg,Vestland,nynorsk,www.osteroy.kommune.no
 5047,Overhalla,Ranemsletta,Trøndelag,nøytral,www.overhalla.kommune.no
-5436,Porsanger,Lakselv,Troms og Finnmark,bokmål[14][16],www.porsanger.kommune.no
+5436,Porsanger,Lakselv,Troms og Finnmark,bokmål,www.porsanger.kommune.no
 3806,Porsgrunn,Porsgrunn,Vestfold og Telemark,bokmål,www.porsgrunn.kommune.no
 3016,Rakkestad,Rakkestad,Viken,bokmål,www.rakkestad.kommune.no
 1833,Rana,Mo i Rana,Nordland,nøytral,www.rana.kommune.no
@@ -223,7 +223,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 1539,Rauma,Åndalsnes,Møre og Romsdal,nøytral,www.rauma.kommune.no
 3424,Rendalen,Bergset,Innlandet,bokmål,www.rendalen.kommune.no
 5022,Rennebu,Berkåk,Trøndelag,nøytral,www.rennebu.kommune.no
-5061,Rindal,Rindal,Trøndelag[15],nøytral,www.rindal.kommune.no
+5061,Rindal,Rindal,Trøndelag,nøytral,www.rindal.kommune.no
 3439,Ringebu,Vålebrua,Innlandet,nøytral,www.ringebu.kommune.no
 3007,Ringerike,Hønefoss,Viken,bokmål,www.ringerike.kommune.no
 3411,Ringsaker,Brumunddal,Innlandet,bokmål,www.ringsaker.kommune.no
@@ -234,7 +234,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 1836,Rødøy,Vågaholmen,Nordland,nøytral,www.rodoy.kommune.no
 5025,Røros,Røros,Trøndelag,nøytral,roros.kommune.no
 1856,Røst,Røstlandet,Nordland,bokmål,rost.kommune.no
-5043,Røyrvik,Røyrvik,Trøndelag,nøytral[14],www.royrvik.kommune.no
+5043,Røyrvik,Røyrvik,Trøndelag,nøytral,www.royrvik.kommune.no
 5417,Salangen,Sjøvegan,Troms og Finnmark,nøytral,www.salangen.kommune.no
 1840,Saltdal,Rognan,Nordland,bokmål,www.saltdal.kommune.no
 4623,Samnanger,Tysse,Vestland,nynorsk,www.samnanger.kommune.no
@@ -256,7 +256,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 5427,Skjervøy,Skjervøy,Troms og Finnmark,bokmål,www.skjervoy.kommune.no
 3433,Skjåk,Bismo,Innlandet,nynorsk,www.skjaak.kommune.no
 1573,Smøla,Hopen,Møre og Romsdal,nøytral,www.smola.kommune.no
-5041,Snåsa,Snåsa,Trøndelag,nøytral[14],www.snasa.kommune.no
+5041,Snåsa,Snåsa,Trøndelag,nøytral,www.snasa.kommune.no
 4640,Sogndal,Sogndalsfjøra,Vestland,nynorsk,www.sogndal.kommune.no
 1111,Sokndal,Hauge,Rogaland,nøytral,www.sokndal.kommune.no
 1124,Sola,Solakrossen,Rogaland,nøytral,www.sola.kommune.no
