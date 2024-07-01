@@ -1,12 +1,12 @@
 import csv
 import json
 
-file = 'kommuner.csv'
+csv_file = 'kommuner.csv'
 json_file = 'kommuner.json'
 
 def read_CSV(file, json_file):
     csv_rows = []
-    with open(file) as csvfile:
+    with open(csv_file) as csvfile:
         reader = csv.DictReader(csvfile)
         field = reader.fieldnames
         for row in reader:
@@ -18,4 +18,4 @@ def convert_write_json(data, json_file):
         f.write(json.dumps(data ,ensure_ascii=False, sort_keys=False, indent=4, separators=(',', ': ')))
 
 if __name__ == "__main__":
-    read_CSV(file,json_file)
+    read_CSV(csv_file,json_file)
