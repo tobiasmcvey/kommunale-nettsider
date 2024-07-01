@@ -30,8 +30,8 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 1145,Bokn,Føresvik,Rogaland,nynorsk,www.bokn.kommune.no
 4648,Bremanger,Svelgen,Vestland,nynorsk,bremanger.kommune.no
 1813,Brønnøy,Brønnøysund,Nordland,nøytral,www.bronnoy.kommune.no
-4220,Bygland,Bygland,Agder,nynorsk,www.bygland.kommune.no
-4222,Bykle,Bykle,Agder,nynorsk,www.bykle.kommune.no
+4220,Bygland,Bygland,Agder,nynorsk,bygland.kommune.no
+4222,Bykle,Bykle,Agder,nynorsk,bykle.kommune.no
 5443,Båtsfjord,Båtsfjord,Troms og Finnmark,nøytral,www.batsfjord.kommune.no
 3024,Bærum,Sandvika,Viken,bokmål,www.baerum.kommune.no
 1867,Bø,Straume,Nordland,nøytral,www.boe.kommune.no
@@ -51,7 +51,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 4611,Etne,Etnesjøen,Vestland,nynorsk,www.etne.kommune.no
 3450,Etnedal,Bruflat,Innlandet,nøytral,www.etnedal.kommune.no
 1853,Evenes,Bogen,Nordland,bokmål,www.evenes.kommune.no
-4219,Evje og Hornnes,Evje,Agder,nøytral,www.e-h.kommune.no
+4219,Evje og Hornnes,Evje,Agder,nøytral,e-h.kommune.no
 4206,Farsund,Farsund,Agder,bokmål,www.farsund.kommune.no
 1841,Fauske,Fauske,Nordland,bokmål,www.fauske.kommune.no
 4633,Fedje,Fedje,Vestland,nynorsk,www.fedje.kommune.no
@@ -72,7 +72,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 3823,Fyresdal,Folkestadbyen,Vestfold og Telemark,nynorsk,www.fyresdal.kommune.no
 3811,Færder,Borgheim,Vestfold og Telemark,nøytral,faerder.kommune.no
 5439,Gamvik,Mehamn,Troms og Finnmark,nøytral,www.gamvik.kommune.no
-3441,Gausdal,Segalstad bru,Innlandet,nøytral,www.gausdal.kommune.no
+3441,Gausdal,Segalstad bru,Innlandet,nøytral,gausdal.kommune.no
 1838,Gildeskål,Inndyr,Nordland,nøytral,www.gildeskal.kommune.no
 1532,Giske,Valderøya,Møre og Romsdal,nynorsk,www.giske.kommune.no
 1557,Gjemnes,Batnfjordsøra,Møre og Romsdal,nøytral,www.gjemnes.kommune.no
@@ -124,7 +124,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 5053,Inderøy,Straumen,Trøndelag,nøytral,www.inderoy.kommune.no
 5054,Indre Fosen,Årnset,Trøndelag,nøytral,www.indrefosen.kommune.no
 3014,Indre Østfold,Askim,Viken,bokmål,www.io.kommune.no
-4218,Iveland,Birketveit,Agder,nøytral,www.iveland.kommune.no
+4218,Iveland,Birketveit,Agder,nøytral,iveland.kommune.no
 3053,Jevnaker,Jevnaker,Viken,bokmål,www.jevnaker.kommune.no
 5437,Karasjok,Karasjok,Troms og Finnmark,bokmål,www.karasjok.kommune.no
 5423,Karlsøy,Hansnes,Troms og Finnmark,nøytral,www.karlsoy.kommune.no
@@ -155,7 +155,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 5037,Levanger,Levanger,Trøndelag,nøytral,www.levanger.kommune.no
 3049,Lier,Lierbyen,Viken,bokmål,www.lier.kommune.no
 5042,Lierne,Lierne,Trøndelag,nøytral,www.lierne.kommune.no
-3405,Lillehammer,Lillehammer,Innlandet,bokmål,www.lillehammer.kommune.no
+3405,Lillehammer,Lillehammer,Innlandet,bokmål,lillehammer.kommune.no
 4215,Lillesand,Lillesand,Agder,bokmål,www.lillesand.kommune.no
 3030,Lillestrøm,Lillestrøm,Viken,nøytral,www.lillestrom.kommune.no
 4205,Lindesnes,Mandal,Agder,bokmål,www.lindesnes.kommune.no
@@ -238,7 +238,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 5417,Salangen,Sjøvegan,Troms og Finnmark,nøytral,www.salangen.kommune.no
 1840,Saltdal,Rognan,Nordland,bokmål,www.saltdal.kommune.no
 4623,Samnanger,Tysse,Vestland,nynorsk,www.samnanger.kommune.no
-1514,Sande,Larsnes,Møre og Romsdal,nynorsk,www.sande-mr.kommune.no
+1514,Sande,Larsnes,Møre og Romsdal,nynorsk,www.sande.kommune.no
 3804,Sandefjord,Sandefjord,Vestfold og Telemark,bokmål,www.sandefjord.kommune.no
 1108,Sandnes,Sandnes,Rogaland,nøytral,www.sandnes.kommune.no
 3003,Sarpsborg,Sarpsborg,Viken,bokmål,www.sarpsborg.com
@@ -296,7 +296,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 5412,Tjeldsund,Evenskjer,Troms og Finnmark,bokmål,www.tjeldsund.kommune.no
 3824,Tokke,Dalen,Vestfold og Telemark,nynorsk,www.tokke.kommune.no
 3426,Tolga,Tolga,Innlandet,nøytral,www.tolga.kommune.no
-5401,Tromsø,Tromsø,Troms og Finnmark,nøytral,www.tromso.kommune.no
+5401,Tromsø,Tromsø,Troms og Finnmark,nøytral,tromso.kommune.no
 5001,Trondheim,Trondheim,Trøndelag,nøytral,www.trondheim.kommune.no
 3421,Trysil,Innbygda,Innlandet,bokmål,www.trysil.kommune.no
 1835,Træna,Husøy,Nordland,bokmål,www.trana.kommune.no
@@ -310,10 +310,10 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 4618,Ullensvang,Kinsarvik,Vestland,nynorsk,ullensvang.kommune.no
 1516,Ulstein,Ulsteinvik,Møre og Romsdal,nynorsk,www.ulstein.kommune.no
 4620,Ulvik,Ulvik,Vestland,nynorsk,www.ulvik.kommune.no
-1151,Utsira,Utsira,Rogaland,nøytral,www.utsira.kommune.no
+1151,Utsira,Utsira,Rogaland,nøytral,utsira.kommune.no
 5405,Vadsø,Vadsø,Troms og Finnmark,bokmål,www.vadso.kommune.no
 4628,Vaksdal,Dale,Vestland,nynorsk,www.vaksdal.kommune.no
-4221,Valle,Valle,Agder,nynorsk,www.valle.kommune.no
+4221,Valle,Valle,Agder,nynorsk,valle.kommune.no
 3454,Vang,Vang,Innlandet,nynorsk,www.vang.kommune.no
 1511,Vanylven,Fiskåbygd,Møre og Romsdal,nynorsk,www.vanylven.kommune.no
 5404,Vardø,Vardø,Troms og Finnmark,bokmål,www.vardo.kommune.no
@@ -321,7 +321,7 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 1815,Vega,Gladstad,Nordland,bokmål,www.vega.kommune.no
 4212,Vegårshei,Myra,Agder,nøytral,www.vegarshei.kommune.no
 4223,Vennesla,Vennesla,Agder,nøytral,www.vennesla.kommune.no
-5038,Verdal,Verdalsøra,Trøndelag,nøytral,verdal.kommune.no
+5038,Verdal,Verdalsøra,Trøndelag,nøytral,www.verdal.kommune.no
 3019,Vestby,Vestby,Viken,bokmål,www.vestby.kommune.no
 1535,Vestnes,Vestnes,Møre og Romsdal,nynorsk,www.vestnes.kommune.no
 3452,Vestre Slidre,Slidre,Innlandet,nynorsk,www.vestre-slidre.kommune.no
@@ -335,12 +335,12 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 4621,Voss,Vossevangen,Vestland,nynorsk,voss.herad.no
 1865,Vågan,Svolvær,Nordland,nøytral,vagan.kommune.no
 3435,Vågå,Vågåmo,Innlandet,nynorsk,www.vaga.kommune.no
-3018,Våler,Kirkebygden,Viken,bokmål,www.valer-of.kommune.no
+3018,Våler,Kirkebygden,Viken,bokmål,www.valer.kommune.no
 3419,Våler,Våler,Innlandet,bokmål,www.vaaler-he.kommune.no
 1857,Værøy,Sørland,Nordland,bokmål,varoy.kommune.no
 5058,Åfjord,Årnes,Trøndelag,nøytral,www.afjord.kommune.no
 3043,Ål,Ål,Viken,nynorsk,www.aal.kommune.no
-1507,Ålesund,Ålesund,Møre og Romsdal,nynorsk,www.alesund.kommune.no
+1507,Ålesund,Ålesund,Møre og Romsdal,nynorsk,alesund.kommune.no
 4217,Åmli,Åmli,Agder,nynorsk,www.amli.kommune.no
 3422,Åmot,Rena,Innlandet,bokmål,www.amot.kommune.no
 4643,Årdal,Årdalstangen,Vestland,nynorsk,www.ardal.kommune.no
@@ -348,10 +348,10 @@ Nr,Kommunenavn,Adm. senter,Fylke,Målform,Domene
 4224,Åseral,Kyrkjebygda,Agder,nynorsk,www.aseral.kommune.no
 3418,Åsnes,Flisa,Innlandet,bokmål,www.asnes.kommune.no
 1868,Øksnes,Myre,Nordland,nøytral,www.oksnes.kommune.no
-5057,Ørland,Brekstad,Trøndelag,bokmål,orland.kommune.no
+5057,Ørland,Brekstad,Trøndelag,bokmål,www.orland.kommune.no
 1520,Ørsta,Ørsta,Møre og Romsdal,nynorsk,www.orsta.kommune.no
-3442,Østre Toten,Lena,Innlandet,bokmål,www.ostre-toten.kommune.no
+3442,Østre Toten,Lena,Innlandet,bokmål,www.ototen.no
 3048,Øvre Eiker,Hokksund,Viken,bokmål,ovre-eiker.kommune.no
-3440,Øyer,Tingberg,Innlandet,nøytral,www.oyer.kommune.no
+3440,Øyer,Tingberg,Innlandet,nøytral,oyer.kommune.no
 4626,Øygarden,Straume,Vestland,Nynorsk,www.oygarden.kommune.no
 3453,Øystre Slidre,Heggenes,Innlandet,nynorsk,www.oystre-slidre.kommune.no
