@@ -40,5 +40,5 @@ def write_csv(data, csv_file):
             writer.writerow(row)
 
 if __name__ == "__main__":
-    write_json(data=read_CSV,json_file=JSON_FILE)
+    read_CSV(csv_file=CSV_FILE, json_file=JSON_FILE)
     # write_csv(data=read_json(json_file=JSON_FILE), csv_file=CSV_FILE)
