@@ -8,10 +8,10 @@
         "Domene": "www.alstahaug.kommune.no"
     },
     {
-        "Nr": "5403",
+        "Nr": "5601",
         "Kommunenavn": "Alta",
         "Adm. senter": "Alta",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.alta.kommune.no"
     },
@@ -40,10 +40,10 @@
         "Domene": "www.andoy.kommune.no"
     },
     {
-        "Nr": "3012",
+        "Nr": "3124",
         "Kommunenavn": "Aremark",
         "Adm. senter": "Fossby",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.aremark.kommune.no"
     },
@@ -56,10 +56,10 @@
         "Domene": "www.arendal.kommune.no"
     },
     {
-        "Nr": "3025",
+        "Nr": "3203",
         "Kommunenavn": "Asker",
         "Adm. senter": "Asker",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.asker.kommune.no"
     },
@@ -104,10 +104,10 @@
         "Domene": "www.aurland.kommune.no"
     },
     {
-        "Nr": "3026",
+        "Nr": "3226",
         "Kommunenavn": "Aurskog-Høland",
         "Adm. senter": "Bjørkelangen",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.aurskog-holand.kommune.no"
     },
@@ -136,26 +136,26 @@
         "Domene": "www.averoy.kommune.no"
     },
     {
-        "Nr": "5422",
+        "Nr": "5532",
         "Kommunenavn": "Balsfjord",
         "Adm. senter": "Storsteinnes",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.balsfjord.kommune.no"
     },
     {
-        "Nr": "3813",
+        "Nr": "4012",
         "Kommunenavn": "Bamble",
         "Adm. senter": "Langesund",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.bamble.kommune.no"
     },
     {
-        "Nr": "5416",
+        "Nr": "5520",
         "Kommunenavn": "Bardu",
         "Adm. senter": "Setermoen",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.bardu.kommune.no"
     },
@@ -176,10 +176,10 @@
         "Domene": "www.bergen.kommune.no"
     },
     {
-        "Nr": "5440",
+        "Nr": "5630",
         "Kommunenavn": "Berlevåg",
         "Adm. senter": "Berlevåg",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.berlevag.kommune.no"
     },
@@ -264,18 +264,18 @@
         "Domene": "bykle.kommune.no"
     },
     {
-        "Nr": "5443",
+        "Nr": "5632",
         "Kommunenavn": "Båtsfjord",
         "Adm. senter": "Båtsfjord",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "nøytral",
         "Domene": "www.batsfjord.kommune.no"
     },
     {
-        "Nr": "3024",
+        "Nr": "3201",
         "Kommunenavn": "Bærum",
         "Adm. senter": "Sandvika",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.baerum.kommune.no"
     },
@@ -304,26 +304,26 @@
         "Domene": "www.dovre.kommune.no"
     },
     {
-        "Nr": "3005",
+        "Nr": "3301",
         "Kommunenavn": "Drammen",
         "Adm. senter": "Drammen",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nøytral",
         "Domene": "www.drammen.kommune.no"
     },
     {
-        "Nr": "3815",
+        "Nr": "4016",
         "Kommunenavn": "Drangedal",
         "Adm. senter": "Prestestranda",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.drangedal.kommune.no"
     },
     {
-        "Nr": "5420",
+        "Nr": "5528",
         "Kommunenavn": "Dyrøy",
         "Adm. senter": "Brøstadbotn",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.dyroy.kommune.no"
     },
@@ -352,10 +352,10 @@
         "Domene": "www.eidskog.kommune.no"
     },
     {
-        "Nr": "3035",
+        "Nr": "3240",
         "Kommunenavn": "Eidsvoll",
         "Adm. senter": "Eidsvoll",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.eidsvoll.kommune.no"
     },
@@ -376,10 +376,10 @@
         "Domene": "www.elverum.kommune.no"
     },
     {
-        "Nr": "3028",
+        "Nr": "3220",
         "Kommunenavn": "Enebakk",
         "Adm. senter": "Kirkebygda",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.enebakk.kommune.no"
     },
@@ -496,18 +496,18 @@
         "Domene": "www.flekkefjord.kommune.no"
     },
     {
-        "Nr": "3050",
+        "Nr": "3334",
         "Kommunenavn": "Flesberg",
         "Adm. senter": "Lampeland",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.flesberg.kommune.no"
     },
     {
-        "Nr": "3039",
+        "Nr": "3320",
         "Kommunenavn": "Flå",
         "Adm. senter": "Flå",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.flaa.kommune.no"
     },
@@ -520,18 +520,18 @@
         "Domene": "www.folldal.kommune.no"
     },
     {
-        "Nr": "3004",
+        "Nr": "3107",
         "Kommunenavn": "Fredrikstad",
         "Adm. senter": "Fredrikstad",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.fredrikstad.kommune.no"
     },
     {
-        "Nr": "3022",
+        "Nr": "3214",
         "Kommunenavn": "Frogn",
         "Adm. senter": "Drøbak",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.frogn.kommune.no"
     },
@@ -560,26 +560,26 @@
         "Domene": "www.froya.kommune.no"
     },
     {
-        "Nr": "3823",
+        "Nr": "4032",
         "Kommunenavn": "Fyresdal",
         "Adm. senter": "Folkestadbyen",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.fyresdal.kommune.no"
     },
     {
-        "Nr": "3811",
+        "Nr": "3911",
         "Kommunenavn": "Færder",
         "Adm. senter": "Borgheim",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "nøytral",
         "Domene": "faerder.kommune.no"
     },
     {
-        "Nr": "5439",
+        "Nr": "5626",
         "Kommunenavn": "Gamvik",
         "Adm. senter": "Mehamn",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "nøytral",
         "Domene": "www.gamvik.kommune.no"
     },
@@ -616,10 +616,10 @@
         "Domene": "www.gjemnes.kommune.no"
     },
     {
-        "Nr": "3032",
+        "Nr": "3230",
         "Kommunenavn": "Gjerdrum",
         "Adm. senter": "Ask",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.gjerdrum.kommune.no"
     },
@@ -656,10 +656,10 @@
         "Domene": "gloppen.kommune.no"
     },
     {
-        "Nr": "3041",
+        "Nr": "3324",
         "Kommunenavn": "Gol",
         "Adm. senter": "Gol",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nynorsk",
         "Domene": "www.gol.kommune.no"
     },
@@ -680,10 +680,10 @@
         "Domene": "www.grane.kommune.no"
     },
     {
-        "Nr": "5414",
+        "Nr": "5516",
         "Kommunenavn": "Gratangen",
         "Adm. senter": "Årstein",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.gratangen.kommune.no"
     },
@@ -728,10 +728,10 @@
         "Domene": "www.hadsel.kommune.no"
     },
     {
-        "Nr": "3001",
+        "Nr": "3101",
         "Kommunenavn": "Halden",
         "Adm. senter": "Halden",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.halden.kommune.no"
     },
@@ -752,10 +752,10 @@
         "Domene": "www.hamaroy.kommune.no"
     },
     {
-        "Nr": "5406",
+        "Nr": "5603",
         "Kommunenavn": "Hammerfest",
         "Adm. senter": "Hammerfest",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "nøytral",
         "Domene": "hammerfest.kommune.no"
     },
@@ -768,18 +768,18 @@
         "Domene": "www.hareid.kommune.no"
     },
     {
-        "Nr": "5402",
+        "Nr": "5503",
         "Kommunenavn": "Harstad",
         "Adm. senter": "Harstad",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.harstad.kommune.no"
     },
     {
-        "Nr": "5433",
+        "Nr": "5616",
         "Kommunenavn": "Hasvik",
         "Adm. senter": "Breivikbotn",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.hasvik.kommune.no"
     },
@@ -816,10 +816,10 @@
         "Domene": "www.hemnes.kommune.no"
     },
     {
-        "Nr": "3042",
+        "Nr": "3326",
         "Kommunenavn": "Hemsedal",
         "Adm. senter": "Trøim",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nynorsk",
         "Domene": "www.hemsedal.kommune.no"
     },
@@ -848,10 +848,10 @@
         "Domene": "www.hitra.kommune.no"
     },
     {
-        "Nr": "3819",
+        "Nr": "4024",
         "Kommunenavn": "Hjartdal",
         "Adm. senter": "Sauland",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.hjartdal.kommune.no"
     },
@@ -864,26 +864,26 @@
         "Domene": "www.hjelmeland.kommune.no"
     },
     {
-        "Nr": "3044",
+        "Nr": "3330",
         "Kommunenavn": "Hol",
         "Adm. senter": "Hol",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nøytral",
         "Domene": "www.hol.kommune.no"
     },
     {
-        "Nr": "3038",
+        "Nr": "3310",
         "Kommunenavn": "Hole",
         "Adm. senter": "Vik",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.hole.kommune.no"
     },
     {
-        "Nr": "3802",
+        "Nr": "3903",
         "Kommunenavn": "Holmestrand",
         "Adm. senter": "Holmestrand",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "bokmål",
         "Domene": "holmestrand.kommune.no"
     },
@@ -896,18 +896,18 @@
         "Domene": "holtalen.kommune.no"
     },
     {
-        "Nr": "3801",
+        "Nr": "3901",
         "Kommunenavn": "Horten",
         "Adm. senter": "Horten",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "bokmål",
         "Domene": "www.horten.kommune.no"
     },
     {
-        "Nr": "3037",
+        "Nr": "3242",
         "Kommunenavn": "Hurdal",
         "Adm. senter": "Hurdal",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.hurdal.kommune.no"
     },
@@ -920,10 +920,10 @@
         "Domene": "hustadvika.kommune.no"
     },
     {
-        "Nr": "3011",
+        "Nr": "3110",
         "Kommunenavn": "Hvaler",
         "Adm. senter": "Skjærhalden",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.hvaler.kommune.no"
     },
@@ -968,10 +968,10 @@
         "Domene": "www.hoylandet.kommune.no"
     },
     {
-        "Nr": "5413",
+        "Nr": "5514",
         "Kommunenavn": "Ibestad",
         "Adm. senter": "Hamnvik",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.ibestad.kommune.no"
     },
@@ -992,10 +992,10 @@
         "Domene": "www.indrefosen.kommune.no"
     },
     {
-        "Nr": "3014",
+        "Nr": "3118",
         "Kommunenavn": "Indre Østfold",
         "Adm. senter": "Askim",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.io.kommune.no"
     },
@@ -1008,26 +1008,26 @@
         "Domene": "iveland.kommune.no"
     },
     {
-        "Nr": "3053",
+        "Nr": "3236",
         "Kommunenavn": "Jevnaker",
         "Adm. senter": "Jevnaker",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.jevnaker.kommune.no"
     },
     {
-        "Nr": "5437",
+        "Nr": "5610",
         "Kommunenavn": "Karasjok",
         "Adm. senter": "Karasjok",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.karasjok.kommune.no"
     },
     {
-        "Nr": "5423",
+        "Nr": "5534",
         "Kommunenavn": "Karlsøy",
         "Adm. senter": "Hansnes",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.karlsoy.kommune.no"
     },
@@ -1040,10 +1040,10 @@
         "Domene": "www.karmoy.kommune.no"
     },
     {
-        "Nr": "5430",
+        "Nr": "5612",
         "Kommunenavn": "Kautokeino",
         "Adm. senter": "Kautokeino",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "Bokmål",
         "Domene": "www.guovdageainnu.suohkan.no"
     },
@@ -1064,10 +1064,10 @@
         "Domene": "www.klepp.kommune.no"
     },
     {
-        "Nr": "3006",
+        "Nr": "3303",
         "Kommunenavn": "Kongsberg",
         "Adm. senter": "Kongsberg",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.kongsberg.kommune.no"
     },
@@ -1080,10 +1080,10 @@
         "Domene": "www.kongsvinger.kommune.no"
     },
     {
-        "Nr": "3814",
+        "Nr": "4014",
         "Kommunenavn": "Kragerø",
         "Adm. senter": "Kragerø",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.kragero.kommune.no"
     },
@@ -1104,10 +1104,10 @@
         "Domene": "www.kristiansund.kommune.no"
     },
     {
-        "Nr": "3046",
+        "Nr": "3318",
         "Kommunenavn": "Krødsherad",
         "Adm. senter": "Noresund",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nøytral",
         "Domene": "www.krodsherad.kommune.no"
     },
@@ -1136,10 +1136,10 @@
         "Domene": "www.kvinnherad.kommune.no"
     },
     {
-        "Nr": "3821",
+        "Nr": "4028",
         "Kommunenavn": "Kviteseid",
         "Adm. senter": "Kviteseid",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.kviteseid.kommune.no"
     },
@@ -1152,50 +1152,50 @@
         "Domene": "kvitsoy.kommune.no"
     },
     {
-        "Nr": "5411",
+        "Nr": "5510",
         "Kommunenavn": "Kvæfjord",
         "Adm. senter": "Borkenes",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.kvafjord.kommune.no"
     },
     {
-        "Nr": "5429",
+        "Nr": "5546",
         "Kommunenavn": "Kvænangen",
         "Adm. senter": "Burfjord",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.kvanangen.kommune.no"
     },
     {
-        "Nr": "5426",
+        "Nr": "5540",
         "Kommunenavn": "Kåfjord",
         "Adm. senter": "Olderdalen",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.kafjord.kommune.no"
     },
     {
-        "Nr": "3805",
+        "Nr": "3909",
         "Kommunenavn": "Larvik",
         "Adm. senter": "Larvik",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "nøytral",
         "Domene": "www.larvik.kommune.no"
     },
     {
-        "Nr": "5415",
+        "Nr": "5518",
         "Kommunenavn": "Lavangen",
         "Adm. senter": "Tennevoll",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.lavangen.kommune.no"
     },
     {
-        "Nr": "5438",
+        "Nr": "5624",
         "Kommunenavn": "Lebesby",
         "Adm. senter": "Kjøllefjord",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.lebesby.kommune.no"
     },
@@ -1232,10 +1232,10 @@
         "Domene": "www.levanger.kommune.no"
     },
     {
-        "Nr": "3049",
+        "Nr": "3312",
         "Kommunenavn": "Lier",
         "Adm. senter": "Lierbyen",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.lier.kommune.no"
     },
@@ -1264,10 +1264,10 @@
         "Domene": "www.lillesand.kommune.no"
     },
     {
-        "Nr": "3030",
+        "Nr": "3205",
         "Kommunenavn": "Lillestrøm",
         "Adm. senter": "Lillestrøm",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.lillestrom.kommune.no"
     },
@@ -1288,10 +1288,10 @@
         "Domene": "www.lom.kommune.no"
     },
     {
-        "Nr": "5432",
+        "Nr": "5614",
         "Kommunenavn": "Loppa",
         "Adm. senter": "Øksfjord",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.loppa.kommune.no"
     },
@@ -1304,10 +1304,10 @@
         "Domene": "www.lund.kommune.no"
     },
     {
-        "Nr": "3054",
+        "Nr": "3234",
         "Kommunenavn": "Lunner",
         "Adm. senter": "Roa",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.lunner.kommune.no"
     },
@@ -1336,10 +1336,10 @@
         "Domene": "www.lyngdal.kommune.no"
     },
     {
-        "Nr": "5424",
+        "Nr": "5536",
         "Kommunenavn": "Lyngen",
         "Adm. senter": "Lyngseidet",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.lyngen.kommune.no"
     },
@@ -1360,10 +1360,10 @@
         "Domene": "www.lodingen.kommune.no"
     },
     {
-        "Nr": "3029",
+        "Nr": "3222",
         "Kommunenavn": "Lørenskog",
         "Adm. senter": "Solheim",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.lorenskog.kommune.no"
     },
@@ -1384,10 +1384,10 @@
         "Domene": "www.malvik.kommune.no"
     },
     {
-        "Nr": "3013",
+        "Nr": "3122",
         "Kommunenavn": "Marker",
         "Adm. senter": "Ørje",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.marker.kommune.no"
     },
@@ -1424,10 +1424,10 @@
         "Domene": "midt-telemark.kommune.no"
     },
     {
-        "Nr": "3817",
+        "Nr": "4020",
         "Kommunenavn": "Midt-Telemark",
         "Adm. senter": "Bø",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "Nynorsk",
         "Domene": "www.meraker.kommune.no"
     },
@@ -1448,10 +1448,10 @@
         "Domene": "www.modalen.kommune.no"
     },
     {
-        "Nr": "3047",
+        "Nr": "3316",
         "Kommunenavn": "Modum",
         "Adm. senter": "Vikersund",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.modum.kommune.no"
     },
@@ -1472,26 +1472,26 @@
         "Domene": "moskenes.kommune.no"
     },
     {
-        "Nr": "3002",
+        "Nr": "3103",
         "Kommunenavn": "Moss",
         "Adm. senter": "Moss",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "nøytral",
         "Domene": "www.moss.kommune.no"
     },
     {
-        "Nr": "5418",
+        "Nr": "5524",
         "Kommunenavn": "Målselv",
         "Adm. senter": "Moen",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.malselv.kommune.no"
     },
     {
-        "Nr": "5434",
+        "Nr": "5618",
         "Kommunenavn": "Måsøy",
         "Adm. senter": "Havøysund",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.masoy.kommune.no"
     },
@@ -1512,10 +1512,10 @@
         "Domene": "www.namsskogan.kommune.no"
     },
     {
-        "Nr": "3036",
+        "Nr": "3238",
         "Kommunenavn": "Nannestad",
         "Adm. senter": "Teigebyen",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.nannestad.kommune.no"
     },
@@ -1528,18 +1528,18 @@
         "Domene": "www.narvik.kommune.no"
     },
     {
-        "Nr": "3034",
+        "Nr": "3228",
         "Kommunenavn": "Nes",
         "Adm. senter": "Årnes",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.nes.kommune.no"
     },
     {
-        "Nr": "3040",
+        "Nr": "3322",
         "Kommunenavn": "Nesbyen",
         "Adm. senter": "Nesbyen",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.nesbyen.kommune.no"
     },
@@ -1552,42 +1552,42 @@
         "Domene": "www.nesna.kommune.no"
     },
     {
-        "Nr": "3023",
+        "Nr": "3212",
         "Kommunenavn": "Nesodden",
         "Adm. senter": "Nesoddtangen",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.nesodden.kommune.no"
     },
     {
-        "Nr": "5442",
+        "Nr": "5636",
         "Kommunenavn": "Nesseby",
         "Adm. senter": "Varangerbotn",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.nesseby.kommune.no"
     },
     {
-        "Nr": "3822",
+        "Nr": "4030",
         "Kommunenavn": "Nissedal",
         "Adm. senter": "Treungen",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.nissedal.kommune.no"
     },
     {
-        "Nr": "3031",
+        "Nr": "3232",
         "Kommunenavn": "Nittedal",
         "Adm. senter": "Rotnes",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.nittedal.kommune.no"
     },
     {
-        "Nr": "3816",
+        "Nr": "4018",
         "Kommunenavn": "Nome",
         "Adm. senter": "Ulefoss",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.nome.kommune.no"
     },
@@ -1616,18 +1616,18 @@
         "Domene": "www.nord-odal.kommune.no"
     },
     {
-        "Nr": "5435",
+        "Nr": "5620",
         "Kommunenavn": "Nordkapp",
         "Adm. senter": "Honningsvåg",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "nøytral",
         "Domene": "www.nordkapp.kommune.no"
     },
     {
-        "Nr": "3020",
+        "Nr": "3207",
         "Kommunenavn": "Nordre Follo",
         "Adm. senter": "Ski",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.nordrefollo.kommune.no"
     },
@@ -1640,26 +1640,26 @@
         "Domene": "www.nordre-land.kommune.no"
     },
     {
-        "Nr": "5428",
+        "Nr": "5544",
         "Kommunenavn": "Nordreisa",
         "Adm. senter": "Storslett",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.nordreisa.kommune.no"
     },
     {
-        "Nr": "3052",
+        "Nr": "3338",
         "Kommunenavn": "Nore og Uvdal",
         "Adm. senter": "Rødberg",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nøytral",
         "Domene": "www.nore-og-uvdal.kommune.no"
     },
     {
-        "Nr": "3808",
+        "Nr": "4005",
         "Kommunenavn": "Notodden",
         "Adm. senter": "Notodden",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.notodden.kommune.no"
     },
@@ -1704,7 +1704,7 @@
         "Domene": "www.osen.kommune.no"
     },
     {
-        "Nr": "301",
+        "Nr": "0301",
         "Kommunenavn": "Oslo",
         "Adm. senter": "Oslo",
         "Fylke": "Oslo",
@@ -1728,26 +1728,26 @@
         "Domene": "www.overhalla.kommune.no"
     },
     {
-        "Nr": "5436",
+        "Nr": "5622",
         "Kommunenavn": "Porsanger",
         "Adm. senter": "Lakselv",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.porsanger.kommune.no"
     },
     {
-        "Nr": "3806",
+        "Nr": "4001",
         "Kommunenavn": "Porsgrunn",
         "Adm. senter": "Porsgrunn",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "bokmål",
         "Domene": "www.porsgrunn.kommune.no"
     },
     {
-        "Nr": "3016",
+        "Nr": "3120",
         "Kommunenavn": "Rakkestad",
         "Adm. senter": "Rakkestad",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.rakkestad.kommune.no"
     },
@@ -1808,10 +1808,10 @@
         "Domene": "www.ringebu.kommune.no"
     },
     {
-        "Nr": "3007",
+        "Nr": "3305",
         "Kommunenavn": "Ringerike",
         "Adm. senter": "Hønefoss",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.ringerike.kommune.no"
     },
@@ -1832,26 +1832,26 @@
         "Domene": "www.risor.kommune.no"
     },
     {
-        "Nr": "3051",
+        "Nr": "3336",
         "Kommunenavn": "Rollag",
         "Adm. senter": "Rollag",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nøytral",
         "Domene": "www.rollag.kommune.no"
     },
     {
-        "Nr": "3017",
+        "Nr": "3112",
         "Kommunenavn": "Råde",
         "Adm. senter": "Karlshus",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.rade.kommune.no"
     },
     {
-        "Nr": "3027",
+        "Nr": "3224",
         "Kommunenavn": "Rælingen",
         "Adm. senter": "Fjerdingby",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.ralingen.kommune.no"
     },
@@ -1888,10 +1888,10 @@
         "Domene": "www.royrvik.kommune.no"
     },
     {
-        "Nr": "5417",
+        "Nr": "5522",
         "Kommunenavn": "Salangen",
         "Adm. senter": "Sjøvegan",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.salangen.kommune.no"
     },
@@ -1920,10 +1920,10 @@
         "Domene": "www.sande.kommune.no"
     },
     {
-        "Nr": "3804",
+        "Nr": "3907",
         "Kommunenavn": "Sandefjord",
         "Adm. senter": "Sandefjord",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "bokmål",
         "Domene": "www.sandefjord.kommune.no"
     },
@@ -1936,10 +1936,10 @@
         "Domene": "www.sandnes.kommune.no"
     },
     {
-        "Nr": "3003",
+        "Nr": "3105",
         "Kommunenavn": "Sarpsborg",
         "Adm. senter": "Sarpsborg",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.sarpsborg.com"
     },
@@ -1968,34 +1968,34 @@
         "Domene": "www.selbu.kommune.no"
     },
     {
-        "Nr": "3820",
+        "Nr": "4022",
         "Kommunenavn": "Seljord",
         "Adm. senter": "Seljord",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.seljord.kommune.no"
     },
     {
-        "Nr": "5421",
+        "Nr": "5530",
         "Kommunenavn": "Senja",
         "Adm. senter": "Finnsnes",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.senja.kommune.no"
     },
     {
-        "Nr": "3045",
+        "Nr": "3332",
         "Kommunenavn": "Sigdal",
         "Adm. senter": "Prestfoss",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "www.sigdal.kommune.no"
     },
     {
-        "Nr": "3812",
+        "Nr": "4010",
         "Kommunenavn": "Siljan",
         "Adm. senter": "Siljan",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.siljan.kommune.no"
     },
@@ -2016,26 +2016,26 @@
         "Domene": "www.skaun.kommune.no"
     },
     {
-        "Nr": "3807",
+        "Nr": "4003",
         "Kommunenavn": "Skien",
         "Adm. senter": "Skien",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.skien.kommune.no"
     },
     {
-        "Nr": "3015",
+        "Nr": "3116",
         "Kommunenavn": "Skiptvet",
         "Adm. senter": "Meieribyen",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.skiptvet.kommune.no"
     },
     {
-        "Nr": "5427",
+        "Nr": "5542",
         "Kommunenavn": "Skjervøy",
         "Adm. senter": "Skjervøy",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.skjervoy.kommune.no"
     },
@@ -2168,10 +2168,10 @@
         "Domene": "www.stord.kommune.no"
     },
     {
-        "Nr": "5425",
+        "Nr": "5538",
         "Kommunenavn": "Storfjord",
         "Adm. senter": "Hatteng",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.storfjord.kommune.no"
     },
@@ -2296,10 +2296,10 @@
         "Domene": "www.sor-odal.kommune.no"
     },
     {
-        "Nr": "5444",
+        "Nr": "5605",
         "Kommunenavn": "Sør-Varanger",
         "Adm. senter": "Kirkenes",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.svk.no"
     },
@@ -2312,18 +2312,18 @@
         "Domene": "www.sorfold.kommune.no"
     },
     {
-        "Nr": "5419",
+        "Nr": "5526",
         "Kommunenavn": "Sørreisa",
         "Adm. senter": "Sørreisa",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "www.sorreisa.kommune.no"
     },
     {
-        "Nr": "5441",
+        "Nr": "5628",
         "Kommunenavn": "Tana",
         "Adm. senter": "Tana bru",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.tana.kommune.no"
     },
@@ -2344,26 +2344,26 @@
         "Domene": "www.tingvoll.kommune.no"
     },
     {
-        "Nr": "3818",
+        "Nr": "4026",
         "Kommunenavn": "Tinn",
         "Adm. senter": "Rjukan",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nøytral",
         "Domene": "www.tinn.kommune.no"
     },
     {
-        "Nr": "5412",
+        "Nr": "5512",
         "Kommunenavn": "Tjeldsund",
         "Adm. senter": "Evenskjer",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "bokmål",
         "Domene": "www.tjeldsund.kommune.no"
     },
     {
-        "Nr": "3824",
+        "Nr": "4034",
         "Kommunenavn": "Tokke",
         "Adm. senter": "Dalen",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.tokke.kommune.no"
     },
@@ -2376,10 +2376,10 @@
         "Domene": "www.tolga.kommune.no"
     },
     {
-        "Nr": "5401",
+        "Nr": "5501",
         "Kommunenavn": "Tromsø",
         "Adm. senter": "Tromsø",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Troms",
         "Målform": "nøytral",
         "Domene": "tromso.kommune.no"
     },
@@ -2448,18 +2448,18 @@
         "Domene": "www.tysver.kommune.no"
     },
     {
-        "Nr": "3803",
+        "Nr": "3905",
         "Kommunenavn": "Tønsberg",
         "Adm. senter": "Tønsberg",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Vestfold",
         "Målform": "nøytral",
         "Domene": "www.tonsberg.kommune.no"
     },
     {
-        "Nr": "3033",
+        "Nr": "3209",
         "Kommunenavn": "Ullensaker",
         "Adm. senter": "Jessheim",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.ullensaker.kommune.no"
     },
@@ -2496,10 +2496,10 @@
         "Domene": "utsira.kommune.no"
     },
     {
-        "Nr": "5405",
+        "Nr": "5607",
         "Kommunenavn": "Vadsø",
         "Adm. senter": "Vadsø",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.vadso.kommune.no"
     },
@@ -2536,10 +2536,10 @@
         "Domene": "www.vanylven.kommune.no"
     },
     {
-        "Nr": "5404",
+        "Nr": "5634",
         "Kommunenavn": "Vardø",
         "Adm. senter": "Vardø",
-        "Fylke": "Troms og Finnmark",
+        "Fylke": "Finnmark",
         "Målform": "bokmål",
         "Domene": "www.vardo.kommune.no"
     },
@@ -2584,10 +2584,10 @@
         "Domene": "www.verdal.kommune.no"
     },
     {
-        "Nr": "3019",
+        "Nr": "3216",
         "Kommunenavn": "Vestby",
         "Adm. senter": "Vestby",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "bokmål",
         "Domene": "www.vestby.kommune.no"
     },
@@ -2648,10 +2648,10 @@
         "Domene": "www.vindafjord.kommune.no"
     },
     {
-        "Nr": "3825",
+        "Nr": "4036",
         "Kommunenavn": "Vinje",
         "Adm. senter": "Åmot",
-        "Fylke": "Vestfold og Telemark",
+        "Fylke": "Telemark",
         "Målform": "nynorsk",
         "Domene": "www.vinje.kommune.no"
     },
@@ -2688,10 +2688,10 @@
         "Domene": "www.vaga.kommune.no"
     },
     {
-        "Nr": "3018",
+        "Nr": "3114",
         "Kommunenavn": "Våler",
         "Adm. senter": "Kirkebygden",
-        "Fylke": "Viken",
+        "Fylke": "Østfold",
         "Målform": "bokmål",
         "Domene": "www.valer.kommune.no"
     },
@@ -2720,15 +2720,15 @@
         "Domene": "www.afjord.kommune.no"
     },
     {
-        "Nr": "3043",
+        "Nr": "3328",
         "Kommunenavn": "Ål",
         "Adm. senter": "Ål",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "nynorsk",
         "Domene": "www.aal.kommune.no"
     },
     {
-        "Nr": "1507",
+        "Nr": "1508",
         "Kommunenavn": "Ålesund",
         "Adm. senter": "Ålesund",
         "Fylke": "Møre og Romsdal",
@@ -2760,10 +2760,10 @@
         "Domene": "www.ardal.kommune.no"
     },
     {
-        "Nr": "3021",
+        "Nr": "3218",
         "Kommunenavn": "Ås",
         "Adm. senter": "Ås",
-        "Fylke": "Viken",
+        "Fylke": "Akershus",
         "Målform": "nøytral",
         "Domene": "www.as.kommune.no"
     },
@@ -2816,10 +2816,10 @@
         "Domene": "www.ototen.no"
     },
     {
-        "Nr": "3048",
+        "Nr": "3314",
         "Kommunenavn": "Øvre Eiker",
         "Adm. senter": "Hokksund",
-        "Fylke": "Viken",
+        "Fylke": "Buskerud",
         "Målform": "bokmål",
         "Domene": "ovre-eiker.kommune.no"
     },
